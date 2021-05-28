@@ -8,14 +8,14 @@
 ## Getting
 
 ```
-go get github.com/HewlettPackard/lustre_exporter
+go get github.com/AeonComputing/lustre_exporter
 ```
 
 ## Building
 
 
 ```
-cd $GOPATH/src/github.com/HewlettPackard/lustre_exporter
+cd $GOPATH/src/github.com/AeonComputing/lustre_exporter
 make
 ```
 
